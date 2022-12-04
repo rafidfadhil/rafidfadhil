@@ -1,4 +1,4 @@
-# Hi, I'm Fatih <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
+# Hi, I'm Rafid F <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 <h3 align="center">High interest in Fullstack Development. Mostly contributed to private repo </h3>
 <div align="center"> 
 
