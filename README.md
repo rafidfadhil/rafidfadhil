@@ -45,10 +45,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafidfadhil&theme=discord" alt="rafidfadhil" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidfadhil&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafidfadhil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafidfadhil&theme=dark&show_icons=true" alt="rafidfadhil" /></p>
-<p><a href="http://www.github.com/rafidfadhil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidfahdil&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
+<p><a href="http://www.github.com/rafidfadhil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidfadhil&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
 <p><img src="https://metrics.lecoq.io/rafidfadhil?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
   <br/>
-   <a href="https://github.com/rafidfahdil"><img alt="Rafid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafidfadhil&custom_title=Abdi%20Fatih's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/rafidfahdil"><img alt="Rafid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafidfadhil&custom_title=Rafid%20Fadhil's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <div align="center">
 </div>
