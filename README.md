@@ -5,7 +5,7 @@
 </div>
 <h3>Connect With Me :</h3>
 <p align="left">
-<a href="https://discordapp.com/channels/@me/Rafid Fadhil#5544/">
+<a href="https://discordapp.com/channels/@me/Rafidfadhil#5544/">
   <img align="left" alt="Rafid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/rafidfadhill/">
@@ -47,8 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafidfadhil&theme=dark&show_icons=true" alt="rafidfadhil" /></p>
 <p><a href="http://www.github.com/rafidfadhil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidfadhil&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
 <p><img src="https://metrics.lecoq.io/rafidfadhil?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
-  <br/>
-   <a href="https://github.com/rafidfahdil"><img alt="Rafid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafidfadhil&custom_title=Rafid%20Fadhil's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <div align="center">
 </div>
