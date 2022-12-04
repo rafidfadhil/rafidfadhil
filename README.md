@@ -49,5 +49,8 @@
 <p><img src="https://metrics.lecoq.io/rafidfadhil?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
   <br/>
 <div align="center">
+  <h1 align="center" dir="auto">
+    【T】【H】【A】【N】【K】 【Y】【O】【U】【!】
+  </h1>
 </div>
 </div>
