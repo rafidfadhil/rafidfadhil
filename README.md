@@ -1,7 +1,7 @@
 # Hi, I'm Rafid Fadhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
-<br />
-<h2 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h2>
 
+<h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
+<br>
 <div align="center">
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 </div>
@@ -57,5 +57,6 @@
   <h1 align="center" dir="auto">
     【T】【H】【A】【N】【K】 【Y】【O】【U】【!】
   </h1>
+ <br>
 </div>
 </div>
