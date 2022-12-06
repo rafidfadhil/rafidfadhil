@@ -2,7 +2,9 @@
 <br />
 <h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
 <br />
-<img  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
 <div align="center"> 
 
 </div>
