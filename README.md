@@ -1,6 +1,9 @@
 # Hi, I'm Rafid Fadhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
+<br />
 <h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<br />
+<img src="https://camo.githubusercontent.com/823822df4639299e2725baf47d3601944c93d8c36c3f3d12b3153095573a9f70/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <div align="center"> 
 
 </div>
