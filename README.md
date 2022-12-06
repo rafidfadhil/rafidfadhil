@@ -1,6 +1,25 @@
 # Hi, I'm Rafid Fadhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 <br />
 <h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
+<h3 align="left">Connect With Me :</h3>
+<p align="left">
+<a href="https://discordapp.com/channels/@me/Rafidfadhil#5544/">
+  <img align="left" alt="Rafid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.instagram.com/rafidfadhill/">
+  <img align="left" alt="Rafid's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/sa88ks6b7mub5o1shw356if8y?si=9290ff969a8742f4">
+  <img align="left" alt="Rafid's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rafidfadhil/">
+  <img align="left" alt="Rafid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/rafidfadhil5">
+  <img align="left" alt="Rafid's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> 
+<br />
+</h1>
 <br />
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -38,24 +57,5 @@
   <h1 align="center" dir="auto">
     【T】【H】【A】【N】【K】 【Y】【O】【U】【!】
   </h1>
-<h3 align="left">Connect With Me :</h3>
-<p align="left">
-<a href="https://discordapp.com/channels/@me/Rafidfadhil#5544/">
-  <img align="left" alt="Rafid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.instagram.com/rafidfadhill/">
-  <img align="left" alt="Rafid's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/sa88ks6b7mub5o1shw356if8y?si=9290ff969a8742f4">
-  <img align="left" alt="Rafid's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rafidfadhil/">
-  <img align="left" alt="Rafid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/rafidfadhil5">
-  <img align="left" alt="Rafid's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> 
-<br />
-</h1>
 </div>
 </div>
