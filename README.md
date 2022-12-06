@@ -1,6 +1,18 @@
 # Hi, I'm Rafid Fadhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 <br />
 <h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
+<br>
+<div align="center">
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+</div>
+<div align="center"> 
+
+</div>
+
+<p align='center'><em><b>"Work silently, and let your success make the loud noises."</b></em>
+ <em><b>- Frank Ocean</b></em>
+<br>
+<div class=d-flex>
 <h3 align="left">Connect With Me :</h3>
 <p align="left">
 <a href="https://discordapp.com/channels/@me/Rafidfadhil#5544/">
@@ -20,18 +32,6 @@
 </a> 
 </h1>
 <br>
-<div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-</div>
-<div align="center"> 
-
-</div>
-
-<p align='center'><em><b>"Work silently, and let your success make the loud noises."</b></em>
-<br/>
- <em><b>- Frank Ocean</b></em>
-<br><br/>
-<br>
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -44,6 +44,7 @@
   <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /></a>
   <a href="https://www.figma.com/files/recent?fuid=1033959841033240726/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" /></a>
 </p>
+<div>
 <br>
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafidfadhil&theme=discord" alt="rafidfadhil" /></a></p>
