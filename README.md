@@ -2,8 +2,7 @@
 <br />
 <h3 align="center">Innovative technology thinking and strong interest in Full-Stack Development  and UI/UX Design. </h3>
 <br />
-<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <div align="center"> 
 
 </div>
