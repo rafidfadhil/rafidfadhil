@@ -38,7 +38,7 @@
   <h1 align="center" dir="auto">
     【T】【H】【A】【N】【K】 【Y】【O】【U】【!】
   </h1>
- <h3>Connect With Me :</h3>
+<h3 align="left">Connect With Me :</h3>
 <p align="left">
 <a href="https://discordapp.com/channels/@me/Rafidfadhil#5544/">
   <img align="left" alt="Rafid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
