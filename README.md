@@ -23,9 +23,9 @@
 <br />
 </h1>
 
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<p align='center'><em><b>"Work silently, and let your success make the loud noises."</b></em>
 <br/>
- <em><b>- Henry Ford</b></em>
+ <em><b>- Frank Ocean</b></em>
 <br><br/>
 <br>
 <h3>Languages and Tools:</h3>
