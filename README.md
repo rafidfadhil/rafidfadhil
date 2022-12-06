@@ -18,9 +18,10 @@
 <a href="https://twitter.com/rafidfadhil5">
   <img align="left" alt="Rafid's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
-
+</h1>
+<br>
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 </div>
 <div align="center"> 
 
